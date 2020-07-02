@@ -13,7 +13,7 @@
 
 ### 项目列表
 
-[开放项目列表](https://github.com/OpenStartupCircle/OpenStartupList)
+[开放项目列表](https://github.com/OpenStartupCircle/OpenStartupList) 收录开放项目
 
 ### 讨论
 [telegram](https://t.me/joinchat/HHeEghR0U25JBTwpr-6qww)
