@@ -21,3 +21,5 @@
 [telegram](https://t.me/joinchat/HHeEghR0U25JBTwpr-6qww)
 
 ![wechat](./social/wechat.png)
+
+[RSS](https://openstartupcircle.github.io/feed.xml)
