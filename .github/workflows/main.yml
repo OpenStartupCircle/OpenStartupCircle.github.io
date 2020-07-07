@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Run a one-line script
-      run: npx github:lotosbin/issue2blog -u lotosbin -r openstartupcircle.github.io
+      run: npx github:lotosbin/issue2blog -u OpenStartupCircle -r OpenStartupCircle.github.io
     - name: git commit
       run: |
         git config user.name "githubaction"
