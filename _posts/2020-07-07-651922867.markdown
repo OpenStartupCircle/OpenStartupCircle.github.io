@@ -1,0 +1,12 @@
+---
+title: "测试博客生成"
+commentId: 651922867
+tags: invalid,published
+original_link: "https://github.com/OpenStartupCircle/OpenStartupCircle.github.io/issues/2"
+summary: ""
+---
+
+
+    
+[查看原文](https://github.com/OpenStartupCircle/OpenStartupCircle.github.io/issues/2)
+    
